@@ -1,10 +1,23 @@
-.button{
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.button {
     background-color: #F39200;
 }
-.is-size-2{
-max-width: 430px;
-line-height: 1.1;
+
+.is-size-2 {
+    max-width: 430px;
+    line-height: 1.1;
 }
-.Background{
+
+.Background {
     background-color: #FBFBFB;
+}
+
+.back {
+    background-color: #EFF4F7;
+    min-height: 90vh;
+    margin-bottom: 50px;
 }
